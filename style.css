@@ -52,7 +52,9 @@ body {
   outline: none;
 }
 
-.delete {
+.delete,
+.button-add-note,
+.edit {
   background: none;
   border: 0;
   color: #888;
