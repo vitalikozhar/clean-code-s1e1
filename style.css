@@ -63,7 +63,8 @@ body {
   cursor: pointer;
 }
 
-.add-task__button:hover {
+.add-task__button:hover,
+.edit:hover {
   color: #3a3a3a;
 }
 
